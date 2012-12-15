@@ -1,0 +1,36 @@
+flocking algorithm
+===================
+
+how to run:
+------------
+
+this script is writen in python. install python and Tinker
+use command ,
+
+	python display.py 
+
+to run the script. you cann change the pattens of the birds by 
+changing the  cohesion_rate, alignment_rate and separation_rate
+in the display.py and SEPARATION_RADIOUS and COHESION_RADIOUS 
+in flock.py.
+
+more inf0:
+-----------
+
+	tcg.galahena@gmail.com
+	http://www.inf0warri0r.blogspot.com
+
+licenses:
+----------
+
+     Copyright 2012 Tharindra Galahena
+
+This is free software: you can redistribute it and/or modify it under the terms of 
+the GNU General Public License as published by the Free Software Foundation, either 
+version 3 of the License, or any later version. This is distributed in the hope 
+that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of 
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General 
+Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this. 
+If not, see http://www.gnu.org/licenses/. 
