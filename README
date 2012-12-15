@@ -4,7 +4,10 @@ flocking algorithm
 how to run:
 ------------
 
-this script is writen in python. install python and Tinker
+this script is writen in python. install 'python' and 'Tkinter'
+to run the script. (use synaptic package manager in Ubuntu
+to install them)
+
 use command ,
 
 	python display.py 
